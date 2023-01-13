@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.2)  12 JAN 2023 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.2)  12 JAN 2023 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -897,15 +897,15 @@ Overfull \vbox (22.61453pt too high) detected at line 67
 ] [5
 
 ]
-<ImgEconomy/RagnarFrisch.jpg, id=56, 220.825pt x 238.8925pt>
-File: ImgEconomy/RagnarFrisch.jpg Graphic file (type jpg)
-<use ImgEconomy/RagnarFrisch.jpg>
-Package pdftex.def Info: ImgEconomy/RagnarFrisch.jpg  used on input line 92.
+<Img/RagnarFrisch.jpg, id=56, 220.825pt x 238.8925pt>
+File: Img/RagnarFrisch.jpg Graphic file (type jpg)
+<use Img/RagnarFrisch.jpg>
+Package pdftex.def Info: Img/RagnarFrisch.jpg  used on input line 92.
 (pdftex.def)             Requested size: 88.32843pt x 95.5553pt.
-<ImgEconomy/JanTinbergen.jpg, id=57, 250.9375pt x 334.24875pt>
-File: ImgEconomy/JanTinbergen.jpg Graphic file (type jpg)
-<use ImgEconomy/JanTinbergen.jpg>
-Package pdftex.def Info: ImgEconomy/JanTinbergen.jpg  used on input line 92.
+<Img/JanTinbergen.jpg, id=57, 250.9375pt x 334.24875pt>
+File: Img/JanTinbergen.jpg Graphic file (type jpg)
+<use Img/JanTinbergen.jpg>
+Package pdftex.def Info: Img/JanTinbergen.jpg  used on input line 92.
 (pdftex.def)             Requested size: 75.28181pt x 100.27539pt.
 
 Overfull \vbox (24.63069pt too high) detected at line 92
@@ -913,11 +913,11 @@ Overfull \vbox (24.63069pt too high) detected at line 92
 
 [6
 
- <./ImgEconomy/RagnarFrisch.jpg> <./ImgEconomy/JanTinbergen.jpg>]
-<ImgEconomy/PaulSamuelson.jpg, id=70, 135.50626pt x 165.61874pt>
-File: ImgEconomy/PaulSamuelson.jpg Graphic file (type jpg)
-<use ImgEconomy/PaulSamuelson.jpg>
-Package pdftex.def Info: ImgEconomy/PaulSamuelson.jpg  used on input line 105.
+ <./Img/RagnarFrisch.jpg> <./Img/JanTinbergen.jpg>]
+<Img/PaulSamuelson.jpg, id=70, 135.50626pt x 165.61874pt>
+File: Img/PaulSamuelson.jpg Graphic file (type jpg)
+<use Img/PaulSamuelson.jpg>
+Package pdftex.def Info: Img/PaulSamuelson.jpg  used on input line 105.
 (pdftex.def)             Requested size: 74.52866pt x 91.09058pt.
 
 Overfull \vbox (19.50157pt too high) detected at line 105
@@ -925,11 +925,11 @@ Overfull \vbox (19.50157pt too high) detected at line 105
 
 [7
 
- <./ImgEconomy/PaulSamuelson.jpg>]
-<ImgEconomy/SimonKuznets.jpg, id=78, 220.825pt x 294.09875pt>
-File: ImgEconomy/SimonKuznets.jpg Graphic file (type jpg)
-<use ImgEconomy/SimonKuznets.jpg>
-Package pdftex.def Info: ImgEconomy/SimonKuznets.jpg  used on input line 119.
+ <./Img/PaulSamuelson.jpg>]
+<Img/SimonKuznets.jpg, id=78, 220.825pt x 294.09875pt>
+File: Img/SimonKuznets.jpg Graphic file (type jpg)
+<use Img/SimonKuznets.jpg>
+Package pdftex.def Info: Img/SimonKuznets.jpg  used on input line 119.
 (pdftex.def)             Requested size: 59.62354pt x 79.40771pt.
 
 Overfull \vbox (23.45863pt too high) detected at line 119
@@ -937,16 +937,16 @@ Overfull \vbox (23.45863pt too high) detected at line 119
 
 [8
 
- <./ImgEconomy/SimonKuznets.jpg>]
-<ImgEconomy/JohnHicks.jpg, id=85, 220.825pt x 294.09875pt>
-File: ImgEconomy/JohnHicks.jpg Graphic file (type jpg)
-<use ImgEconomy/JohnHicks.jpg>
-Package pdftex.def Info: ImgEconomy/JohnHicks.jpg  used on input line 142.
+ <./Img/SimonKuznets.jpg>]
+<Img/JohnHicks.jpg, id=85, 220.825pt x 294.09875pt>
+File: Img/JohnHicks.jpg Graphic file (type jpg)
+<use Img/JohnHicks.jpg>
+Package pdftex.def Info: Img/JohnHicks.jpg  used on input line 142.
 (pdftex.def)             Requested size: 77.2899pt x 102.9361pt.
-<ImgEconomy/KennethArrow.jpg, id=86, 48.18pt x 60.225pt>
-File: ImgEconomy/KennethArrow.jpg Graphic file (type jpg)
-<use ImgEconomy/KennethArrow.jpg>
-Package pdftex.def Info: ImgEconomy/KennethArrow.jpg  used on input line 142.
+<Img/KennethArrow.jpg, id=86, 48.18pt x 60.225pt>
+File: Img/KennethArrow.jpg Graphic file (type jpg)
+<use Img/KennethArrow.jpg>
+Package pdftex.def Info: Img/KennethArrow.jpg  used on input line 142.
 (pdftex.def)             Requested size: 81.9056pt x 102.38203pt.
 
 Overfull \vbox (27.2914pt too high) detected at line 142
@@ -954,7 +954,7 @@ Overfull \vbox (27.2914pt too high) detected at line 142
 
 [9
 
- <./ImgEconomy/JohnHicks.jpg> <./ImgEconomy/KennethArrow.jpg>] [10
+ <./Img/JohnHicks.jpg> <./Img/KennethArrow.jpg>] [10
 
 ]
 \tf@nav=\write6
@@ -972,7 +972,7 @@ Package rerunfilecheck Info: File `Economy.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  27774 strings out of 475284
- 575179 string characters out of 2775521
+ 574920 string characters out of 2775521
  940343 words of memory out of 3000000
  48635 multiletter control sequences out of 15000+600000
  483935 words of font info for 80 fonts, out of 8000000 for 9000
