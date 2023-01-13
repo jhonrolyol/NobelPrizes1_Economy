@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.2)  12 JAN 2023 19:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.2)  12 JAN 2023 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -973,13 +973,13 @@ Package rerunfilecheck Info: File `Economy.out' has not changed.
 Here is how much of TeX's memory you used:
  27774 strings out of 475284
  574920 string characters out of 2775521
- 940343 words of memory out of 3000000
+ 940753 words of memory out of 3000000
  48635 multiletter control sequences out of 15000+600000
  483935 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,127p,1952b,976s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on D:\JR-GITHUB\NobelPrizes\NobelPrizes1_Economy\build\Economy.pdf (10 pages, 212653 bytes).
+Output written on D:\JR-GITHUB\NobelPrizes\NobelPrizes1_Economy\build\Economy.pdf (10 pages, 212853 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
